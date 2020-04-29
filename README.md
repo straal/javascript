@@ -5,9 +5,9 @@
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=3 orderedList=false} -->
 <!-- code_chunk_output -->
 
-- [Constants and keys - enabled/disabled etc.](#constants-and-keys-enableddisabled-etc)
-- [Checkers, validators, extractors, handlers, etc.](#checkers-validators-extractors-handlers-etc)
-- [Operator functions:](#operator-functions)
+- [Constants and keys](#constants-and-keys)
+- [Functions with a specific role](#functions-with-a-specific-role)
+- [Operator functions](#operator-functions)
 - [Pipelines](#pipelines)
 - [Setters and getters](#setters-and-getters)
 - [Avoid if/else](#avoid-ifelse)
