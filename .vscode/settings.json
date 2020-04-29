@@ -1,0 +1,48 @@
+{
+  "editor.formatOnSave": false,
+  "eslint.autoFixOnSave":  true,
+  "eslint.validate":  [
+    {"language":  "vue",  "autoFix":  true  },
+    {"language":  "javascript",  "autoFix":  true  },
+    {"language":  "typescript",  "autoFix":  true  },
+    {"language":  "javascriptreact",  "autoFix":  true  },
+    {"language":  "typescriptreact",  "autoFix":  true  }
+  ],
+  "[vue]": {
+    "editor.formatOnSave": false
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]":  {
+    "editor.formatOnSave":  true,
+  },
+  "[velocity]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "luqimin.velocity",
+  },
+  "javascript.format.enable": false,
+  "sasslint.configFile": ".sass-lint.yml",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "files.exclude": {
+    "mms": true,
+    "kompas": true,
+    "storybook": true,
+    "**/#current-cloud-backend": true
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [{
+        "scope": "keyword.operator.logical",
+        "settings": {
+            "foreground": "#F6D55C"
+        }
+    }]},
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/dynamodump": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
