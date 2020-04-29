@@ -13,7 +13,7 @@ This style guide is also available as an article called *"Lexical functional pro
 
 <h4>Table of contents:</h4>
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=3 orderedList=false} -->
+<!-- @import "[TOC]" {cmd="toc" depthFrom=3 depthTo=3 orderedList=false} -->
 <!-- code_chunk_output -->
 
 - [Constants and keys](#constants-and-keys)
