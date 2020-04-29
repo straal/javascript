@@ -27,6 +27,7 @@ This style guide is also available as an article called *"Lexical functional pro
 - [Factories](#factories)
 - [Reactive streams](#reactive-streams)
 - [Stream creators](#stream-creators)
+- [Resources](#resources)
 
 <!-- /code_chunk_output -->
 
@@ -231,6 +232,12 @@ export const fooStreamCreator = (): Observable<TBar | never> => {
     : bar$
 }
 ```
+
+### Resources
+* [Functional Light JavaScript](https://github.com/getify/Functional-Light-JS)
+* [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
+* [Functional Programming Jargon]((https://github.com/hemanth/functional-programming-jargon))
+
 
 ## Support
 
