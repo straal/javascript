@@ -9,7 +9,7 @@
 
 # Straal JavaScript / Functional Programming Style Guide
 
-This style guide is also available as an article called *"Lexical functional programming - jargon and naming convention"* on Straal.com, [medium.com](https://medium.com/@coun7zero/lexical-functional-programming-jargon-and-naming-convention-a4f0cf559fd) and dev.to.
+This style guide is also available as an article called *"Lexical functional programming - jargon and naming convention"* on [Straal.com](https://straal.com/blog/lexical-functional-programming-jargon-and-naming-convention), [medium.com](https://blog.daftcode.pl/lexical-functional-programming-jargon-and-naming-convention-a4f0cf559fd) and dev.to.
 
 <h4>Table of contents:</h4>
 
