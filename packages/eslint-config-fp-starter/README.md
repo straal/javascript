@@ -7,11 +7,14 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-green.svg?style=flat)](LICENSE)
 [![Twitter](https://img.shields.io/badge/twitter-@straal-blue.svg?style=flat)](http://twitter.com/straal_)
 
-# @straal/eslint-config-fp-starter
+# eslint-config-lodash-fp
 
 Check the article *"Lexical functional programming - jargon and naming convention"* on [Straal.com](https://straal.com/blog/lexical-functional-programming-jargon-and-naming-convention), [medium.com](https://blog.daftcode.pl/lexical-functional-programming-jargon-and-naming-convention-a4f0cf559fd) and dev.to.
 
-
+## Installation
+```
+npm i eslint-plugin-import eslint-plugin-prettier eslint-config-lodash-fp
+```
 
 ## Support
 
