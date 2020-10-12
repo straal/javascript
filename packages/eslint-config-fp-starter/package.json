@@ -1,0 +1,50 @@
+{
+  "name": "eslint-config-lodash-fp",
+  "version": "1.0.3",
+  "description": "Starter with strict FP rules",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/straal/javascript.git"
+  },
+  "keywords": [
+    "fp",
+    "functional",
+    "programming",
+    "starter",
+    "lodash-fp",
+    "eslint",
+    "strict"
+  ],
+  "author": "Straal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/straal/javascript/issues"
+  },
+  "homepage": "https://github.com/straal/javascript/tree/master/packages/eslint-config-lodash-fp#readme",
+  "peerDependencies": {
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-fp": "2.3.0",
+    "eslint-plugin-lodash": "7.1.0",
+    "eslint-plugin-lodash-fp": "2.2.0-a1",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-smells": "1.0.1",
+    "eslint-plugin-standard": "4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "eslint-plugin-fp": "2.3.0",
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-lodash-fp": "2.2.0-a1",
+    "eslint-plugin-lodash": "7.1.0",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-smells": "1.0.1",
+    "eslint-plugin-standard": "4.0.1"
+  }
+}
